@@ -46,7 +46,7 @@ export default function Portfolio() {
                 <h3>Education</h3>
                 <p ><strong >S.S.C from Tala B.Dey Govt High School</strong> (GPA: 5.00)</p>
                 <p><strong>H.S.C from Khulna Public College</strong> (GPA: 5.00)</p>
-                <p ><strong>B.Sc. in EEE — SUST</strong> (CGPA: 3.34g)(recent-3.64,3.84)</p>
+                <p ><strong>B.Sc. in EEE — SUST</strong> (CGPA: 3.34)(recent-3.64,3.83)</p>
 
 
                 <h3>Experience</h3>
