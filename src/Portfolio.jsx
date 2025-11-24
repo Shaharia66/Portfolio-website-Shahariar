@@ -38,15 +38,14 @@ export default function Portfolio() {
                 <h2>About</h2>
                 <p>
                     I am a B.Sc. in EEE (SUST) graduate (2020–2025). I build responsive and functional
-                    web applications using React. I love writing clean code, solving problems, and
-                    learning modern frontend technologies.
+                    web applications using React.  Passionate about continuous learning and transitioning academic analytical skills into real‑world software development.
                 </p>
 
 
                 <h3>Education</h3>
                 <p ><strong >S.S.C from Tala B.Dey Govt High School</strong> (GPA: 5.00)</p>
                 <p><strong>H.S.C from Khulna Public College</strong> (GPA: 5.00)</p>
-                <p ><strong>B.Sc. in EEE — SUST</strong> (CGPA: 3.33)(recent-3.64,3.84)</p>
+                <p ><strong>B.Sc. in EEE — SUST</strong> (CGPA: 3.34g)(recent-3.64,3.84)</p>
 
 
                 <h3>Experience</h3>
