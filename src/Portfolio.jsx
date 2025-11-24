@@ -1,5 +1,6 @@
 import React from "react";
 import "./Portfolio.css";
+import myCV from '../assets/CV Saif.pdf';
 
 
 export default function Portfolio() {
@@ -28,7 +29,7 @@ export default function Portfolio() {
                 </p>
 
 
-                <a className="download-btn" href="#">Download CV</a>
+                <a className="download-btn" href={myCV}>Download CV</a>
                 <a className="email-link" href="mailto:gssaif.tm@gmail.com">Email</a>
             </section>
 
