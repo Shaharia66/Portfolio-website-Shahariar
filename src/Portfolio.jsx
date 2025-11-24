@@ -1,6 +1,6 @@
 import React from "react";
 import "./Portfolio.css";
-import myCV from '../assets/CV Saif.pdf';
+import myCV from './assets/CV Saif.pdf';
 
 
 export default function Portfolio() {
